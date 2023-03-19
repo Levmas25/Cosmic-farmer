@@ -1,0 +1,9 @@
+﻿<Application x:Class="Cosmic_farmer.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:Cosmic_farmer"
+             StartupUri="MainPage.xaml">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>
